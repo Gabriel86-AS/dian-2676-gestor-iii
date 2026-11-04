@@ -10,6 +10,10 @@ const PREFIX = {
   fiscalizacion: 'fisc', sanciones: 'sanc', obligaciones: 'oblig', liquidacion: 'liq', estructura: 'estr',
   misionalidad: 'mis', 'gestion-documental': 'gdoc', lavado: 'laft', cambiaria: 'camb', auditoria: 'aud',
   razonamiento: 'raz', comportamentales: 'comp', integridad: 'integ', _ejemplo: 'ej',
+  // Gestor III
+  contratacion: 'ctr', 'custodia-mercancias': 'cust', 'ingreso-mercancias': 'ingm', 'procedimiento-administrativo': 'cpaca',
+  'servicios-infraestructura': 'serv', siif: 'siif', 'constitucion-funcion-publica': 'const', 'servicio-ciudadano': 'pqrs',
+  'transparencia-mipg': 'tmipg', 'evasion-contrabando': 'evc',
 };
 const TYPES = ['concept', 'mcq', 'pjs', 'truefalse', 'open', 'order', 'match', 'cloze', 'likert', 'flashcard'];
 const errors = [];

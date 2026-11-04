@@ -117,3 +117,7 @@ Sitio en vivo: https://gabriel86-as.github.io/dian-2676-estudio/ · Repo: https:
 - Claves `dian2676g3:*` y cachés `dian2676g3-*` para no chocar con el sitio de Gestor I en el mismo dominio.
 - Se quitaron las 7 unidades tributarias; manifiesto con 10 unidades nuevas pendientes. Simulacros regenerados con las 6 heredadas.
 - Plan nuevo en `plan_and_context/00_OVERVIEW.md`; el de Gestor I quedó en `plan_and_context/gestor1_referencia/`.
+
+## Gestor III · Fase 2 (2026-11-04): contratación
+- Unidad `contratacion` (prefijo `ctr`): 5 lecciones, 18 tarjetas, 34 preguntas (11 PJS). Fuentes verificadas en `dian_2676_recursos/gestor3/*.txt`.
+- `tools/validate.mjs` reconoce los prefijos de las 10 unidades nuevas (ver `content/SCHEMA.md`). Simulacros regenerados.
