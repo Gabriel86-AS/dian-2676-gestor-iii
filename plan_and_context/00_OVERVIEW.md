@@ -18,7 +18,7 @@ Aislamiento del sitio de Gestor I (mismo dominio `gabriel86-as.github.io`): clav
 | id | Tema | Fuentes principales | Prioridad | Estado |
 |---|---|---|---|---|
 | `contratacion` | Contratación pública: etapas, modalidades, plan anual de adquisiciones, supervisión | Ley 80/1993, Ley 1150/2007, Ley 1474/2011, D. 1082/2015 | 1 | hecha |
-| `custodia-mercancias` | Custodia y disposición de mercancías aprehendidas, decomisadas o abandonadas; bienes adjudicados en cobro coactivo y procesos concursales | D. 1165/2019 (disposición de mercancías), procedimientos DIAN | 1 | por hacer |
+| `custodia-mercancias` | Custodia y disposición de mercancías aprehendidas, decomisadas o abandonadas; bienes adjudicados en cobro coactivo y procesos concursales | D. 1165/2019 Título 20, Ley 2586/2026, ET art. 840 | 1 | hecha |
 | `ingreso-mercancias` | Control de ingresos, almacenamiento y registro de mercancías | D. 1165/2019, procedimientos DIAN | 1 | por hacer |
 | `procedimiento-administrativo` | Ley 1437/2011 Títulos I, II y III (caps. I y V–VIII): notificaciones, recursos, actos administrativos | Ley 1437/2011, Ley 1755/2015 | 1 | hecha |
 | `servicios-infraestructura` | Servicios generales, infraestructura, inventarios y parque automotor | normas de bienes del Estado, procedimientos DIAN | 2 | por hacer |

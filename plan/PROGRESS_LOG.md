@@ -126,3 +126,6 @@ Sitio en vivo: https://gabriel86-as.github.io/dian-2676-estudio/ · Repo: https:
 - Unidad `procedimiento-administrativo` (prefijo `cpaca`): 6 lecciones, 18 tarjetas, 31 preguntas (9 PJS). Ley 1437 arts. 1–3, 11–12, 34–43, 65–92 y Ley 1755 arts. 13, 14, 17, 21, verificados en el texto del Senado. Revocatoria directa (cap. IX) fuera: no está en la ficha.
 - Simulacros regenerados. Pruebas: progress 14/14, simulacro 9/9, E2E qa-site 25/25, simulacro-basico 15/15, simulacro-examen 10/10.
 - Repo creado en GitHub como privado y main publicado.
+
+## Gestor III · Fase 2 (2026-11-04): custodia de mercancías
+- Unidad `custodia-mercancias` (prefijo `cust`): 5 lecciones, 16 tarjetas, 28 preguntas (7 PJS). Fuentes: D. 1165/2019 art. 3 y Título 20 (arts. 732–753, texto vigente tras D. 360/2021 y D. 659/2024), Ley 2586/2026 arts. 48, 52, 114 (derogó el DL 920/2023), ET arts. 836-1 y 840 (página del Senado guardada en `gestor3/et_833_852.txt`).

@@ -8,6 +8,6 @@
 - `node tools/validate.mjs` sin errores; `tests/progress.test.js` 14/14; `tests/simulacro.test.js` 9/9; E2E `qa-site` 23/23 (sin la prueba del aviso post-corte: ninguna unidad tiene ítems así), `simulacro-basico` 15/15, `simulacro-examen` 10/10.
 - `manual/` (PDF de la ficha) está en `.gitignore`, igual que el paquete de fuentes.
 
-- **Fase 2 en curso:** `contratacion` hecha (5 lecciones, 18 tarjetas, 34 preguntas) y `procedimiento-administrativo` hecha (6 lecciones, 18 tarjetas, 31 preguntas). Repo publicado como privado en GitHub (`Gabriel86-AS/dian-2676-gestor-iii`); falta hacerlo público y activar Pages. Textos oficiales descargados en `dian_2676_recursos/gestor3/` (Ley 80, 1150, 1474, 1437, 1755, 1712; D. 1082).
+- **Fase 2 en curso:** `contratacion` hecha (5 lecciones, 18 tarjetas, 34 preguntas) , `procedimiento-administrativo` (6 lecciones, 18 tarjetas, 31 preguntas) y `custodia-mercancias` (5 lecciones, 16 tarjetas, 28 preguntas) hechas. Repo publicado como privado en GitHub (`Gabriel86-AS/dian-2676-gestor-iii`); falta hacerlo público y activar Pages. Textos oficiales descargados en `dian_2676_recursos/gestor3/` (Ley 80, 1150, 1474, 1437, 1755, 1712; D. 1082).
 
-**Siguiente:** `custodia-mercancias`, `ingreso-mercancias`. Falta la OPEC y confirmar la fecha del examen.
+**Siguiente:** `ingreso-mercancias`. Falta la OPEC y confirmar la fecha del examen.
