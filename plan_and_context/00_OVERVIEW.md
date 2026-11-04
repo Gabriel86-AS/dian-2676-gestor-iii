@@ -20,7 +20,7 @@ Aislamiento del sitio de Gestor I (mismo dominio `gabriel86-as.github.io`): clav
 | `contratacion` | Contratación pública: etapas, modalidades, plan anual de adquisiciones, supervisión | Ley 80/1993, Ley 1150/2007, Ley 1474/2011, D. 1082/2015 | 1 | hecha |
 | `custodia-mercancias` | Custodia y disposición de mercancías aprehendidas, decomisadas o abandonadas; bienes adjudicados en cobro coactivo y procesos concursales | D. 1165/2019 (disposición de mercancías), procedimientos DIAN | 1 | por hacer |
 | `ingreso-mercancias` | Control de ingresos, almacenamiento y registro de mercancías | D. 1165/2019, procedimientos DIAN | 1 | por hacer |
-| `procedimiento-administrativo` | Ley 1437/2011 Títulos I, II y III (caps. I y V–VIII): notificaciones, recursos, actos administrativos | Ley 1437/2011, Ley 1755/2015 | 1 | por hacer |
+| `procedimiento-administrativo` | Ley 1437/2011 Títulos I, II y III (caps. I y V–VIII): notificaciones, recursos, actos administrativos | Ley 1437/2011, Ley 1755/2015 | 1 | hecha |
 | `servicios-infraestructura` | Servicios generales, infraestructura, inventarios y parque automotor | normas de bienes del Estado, procedimientos DIAN | 2 | por hacer |
 | `siif` | Operación del SIIF Nación II | D. 1068/2015 (SIIF), guías MinHacienda | 2 | por hacer |
 | `gestion-documental` | Gestión documental e instrumentos archivísticos | Ley 594/2000, AGN 001/2024 (en el paquete) | 2 | heredada de Gestor I; revisar enfoque |

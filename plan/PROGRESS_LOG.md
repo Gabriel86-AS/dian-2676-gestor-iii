@@ -121,3 +121,8 @@ Sitio en vivo: https://gabriel86-as.github.io/dian-2676-estudio/ · Repo: https:
 ## Gestor III · Fase 2 (2026-11-04): contratación
 - Unidad `contratacion` (prefijo `ctr`): 5 lecciones, 18 tarjetas, 34 preguntas (11 PJS). Fuentes verificadas en `dian_2676_recursos/gestor3/*.txt`.
 - `tools/validate.mjs` reconoce los prefijos de las 10 unidades nuevas (ver `content/SCHEMA.md`). Simulacros regenerados.
+
+## Gestor III · Fase 2 (2026-11-04): procedimiento administrativo
+- Unidad `procedimiento-administrativo` (prefijo `cpaca`): 6 lecciones, 18 tarjetas, 31 preguntas (9 PJS). Ley 1437 arts. 1–3, 11–12, 34–43, 65–92 y Ley 1755 arts. 13, 14, 17, 21, verificados en el texto del Senado. Revocatoria directa (cap. IX) fuera: no está en la ficha.
+- Simulacros regenerados. Pruebas: progress 14/14, simulacro 9/9, E2E qa-site 25/25, simulacro-basico 15/15, simulacro-examen 10/10.
+- Repo creado en GitHub como privado y main publicado.

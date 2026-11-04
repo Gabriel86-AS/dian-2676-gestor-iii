@@ -1,0 +1,572 @@
+{
+  "id": "procedimiento-administrativo",
+  "title": "Procedimiento administrativo (Ley 1437/2011) y recursos",
+  "area": "funcional",
+  "priority": 1,
+  "summary": "Parte Primera del CPACA según la ficha: principios y conflictos de interés (Título I), derecho de petición (Título II, sustituido por la Ley 1755/2015) y, del Título III, reglas generales de la actuación, publicación y notificación, recursos, silencio administrativo y firmeza y ejecutoriedad de los actos.",
+  "sources": [
+    "Ley 1437 de 2011 (CPACA), arts. 1–3, 11, 12, 34–37, 40, 42, 43, 65–92",
+    "Ley 1755 de 2015 (sustituye el Título II del CPACA), arts. 13, 14, 17, 21"
+  ],
+  "lessons": [
+    {
+      "id": "cpaca-01",
+      "title": "Ámbito, principios e impedimentos",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "cpaca-c-001", "type": "concept", "source": "Ley 1437/2011 arts. 1–3",
+          "title": "¿A quién se aplica y con qué principios?",
+          "body": "La Parte Primera del CPACA se aplica a todos los organismos y entidades de las ramas del poder público, a los órganos autónomos e independientes y a los **particulares cuando cumplen funciones administrativas**. A todos ellos el Código los llama **autoridades** (art. 2).\n\nNo se aplica a procedimientos militares o de policía que exigen decisiones inmediatas para el orden público, ni al ejercicio de la facultad de **libre nombramiento y remoción** (art. 2).\n\nLas actuaciones se rigen especialmente por los principios de **debido proceso, igualdad, imparcialidad, buena fe, moralidad, participación, responsabilidad, transparencia, publicidad, coordinación, eficacia, economía y celeridad** (art. 3). El debido proceso incluye los derechos de **representación, defensa y contradicción**; en lo sancionatorio se suman legalidad, presunción de inocencia, *no reformatio in pejus* y *non bis in idem*."
+        },
+        {
+          "id": "cpaca-c-002", "type": "concept", "source": "Ley 1437/2011 arts. 11 y 12",
+          "title": "Conflicto de interés, impedimento y recusación",
+          "body": "Cuando el interés general choca con el **interés particular y directo** del servidor, este debe **declararse impedido**. Si no lo hace, puede ser **recusado** (art. 11). Una causal típica: que el servidor, su cónyuge o compañero(a), o un pariente hasta el **cuarto grado de consanguinidad, segundo de afinidad o primero civil**, tenga interés en el asunto.\n\n**Trámite (art. 12):**\n- El servidor impedido envía la actuación con escrito motivado al **superior** dentro de los **3 días** siguientes a conocer la causal.\n- El superior decide **de plano** dentro de los **10 días** siguientes al recibo; si acepta, indica quién sigue con el asunto (puede designar un funcionario **ad hoc**)."
+        },
+        { "ref": "cpaca-q-001" },
+        { "ref": "cpaca-q-002" },
+        { "ref": "cpaca-q-003" },
+        { "ref": "cpaca-q-004" }
+      ]
+    },
+    {
+      "id": "cpaca-02",
+      "title": "Derecho de petición (Título II, Ley 1755)",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "cpaca-c-003", "type": "concept", "source": "Ley 1437/2011 art. 13 (sustituido por Ley 1755/2015 art. 1)",
+          "title": "Qué es una petición",
+          "body": "Toda persona puede presentar **peticiones respetuosas** a las autoridades, por interés general o particular, y obtener **pronta resolución completa y de fondo**.\n\n**Toda actuación** que inicie una persona ante una autoridad es ejercicio del derecho de petición (C. P. art. 23), **sin necesidad de invocarlo**: reconocer un derecho, pedir información o copias, consultar, quejarse, denunciar, reclamar e incluso **interponer recursos**.\n\nEs **gratuito** y no requiere abogado."
+        },
+        {
+          "id": "cpaca-c-004", "type": "concept", "source": "Ley 1437/2011 arts. 14, 17 y 21 (sustituidos por Ley 1755/2015 art. 1)",
+          "title": "Términos y casos especiales",
+          "body": "| Tipo de petición | Plazo para resolver |\n|---|---|\n| Regla general | **15 días** desde la recepción |\n| Documentos e información | **10 días** (si no se responde, se entiende **aceptada** y las copias se entregan en 3 días) |\n| Consultas | **30 días** |\n\nSi no es posible responder a tiempo, la autoridad debe **avisar antes del vencimiento**, explicar la demora y fijar un nuevo plazo que **no puede exceder el doble** del inicial (art. 14, parágrafo).\n\n**Petición incompleta (art. 17):** se requiere al peticionario dentro de los **10 días** siguientes a la radicación para que complete en máximo **1 mes** (prorrogable una vez por un término igual). Si no lo hace, se decreta el **desistimiento tácito** por acto motivado, contra el que solo procede **reposición**.\n\n**Autoridad sin competencia (art. 21):** remite al competente dentro de los **5 días** siguientes (si la petición fue escrita) y avisa al peticionario."
+        },
+        { "ref": "cpaca-q-005" },
+        { "ref": "cpaca-q-006" },
+        { "ref": "cpaca-q-007" },
+        { "ref": "cpaca-q-008" },
+        { "ref": "cpaca-q-009" }
+      ]
+    },
+    {
+      "id": "cpaca-03",
+      "title": "Reglas de la actuación administrativa",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "cpaca-c-005", "type": "concept", "source": "Ley 1437/2011 arts. 34–37",
+          "title": "Cómo se adelanta la actuación",
+          "body": "- El CPACA es el **procedimiento común y principal**; las leyes especiales prevalecen y el Código llena sus vacíos (art. 34).\n- La actuación puede ser **escrita, verbal o electrónica**. Si la autoridad actúa **de oficio**, solo puede iniciarla **por escrito** (o electrónicamente si la ley lo autoriza) y debe **informar al interesado** para que se defienda (art. 35).\n- Los documentos de una misma actuación forman **un solo expediente**; los documentos **reservados** van en **cuaderno separado**. Cualquier persona puede examinar el expediente, salvo lo reservado (art. 36).\n- Si un **tercero** puede resultar directamente afectado, la autoridad le **comunica** la actuación para que se haga parte (art. 37)."
+        },
+        {
+          "id": "cpaca-c-006", "type": "concept", "source": "Ley 1437/2011 arts. 40, 42 y 43",
+          "title": "Pruebas y decisión",
+          "body": "- Hasta antes de la decisión de fondo se pueden **aportar, pedir y practicar pruebas**, de oficio o a petición, sin requisitos especiales. **Contra el acto que decide sobre pruebas no hay recursos.** El interesado puede controvertirlas antes de la decisión (art. 40).\n- La decisión es **motivada** y resuelve **todas** las peticiones planteadas oportunamente por el peticionario y los terceros reconocidos (art. 42).\n- **Acto definitivo:** el que decide directa o indirectamente el **fondo del asunto** o hace **imposible continuar** la actuación (art. 43)."
+        },
+        { "ref": "cpaca-q-010" },
+        { "ref": "cpaca-q-011" },
+        { "ref": "cpaca-q-012" },
+        { "ref": "cpaca-q-013" }
+      ]
+    },
+    {
+      "id": "cpaca-04",
+      "title": "Publicación, citación y notificación",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "cpaca-c-007", "type": "concept", "source": "Ley 1437/2011 arts. 65–67",
+          "title": "Actos generales se publican; particulares se notifican",
+          "body": "- **Actos de carácter general:** no son obligatorios mientras no se **publiquen** en el **Diario Oficial** o la gaceta territorial (art. 65).\n- **Actos de carácter particular:** deben **notificarse** (art. 66).\n\n**Notificación personal (art. 67):** al interesado, su representante, apoderado o persona autorizada. Se entrega **copia íntegra, auténtica y gratuita** del acto, con fecha y hora, los **recursos** que proceden, **ante quién** y los **plazos**. **Si falta cualquiera de estos requisitos, la notificación es inválida.**\n\nTambién puede hacerse **por medio electrónico**, siempre que el interesado **acepte** ser notificado así."
+        },
+        {
+          "id": "cpaca-c-008", "type": "concept", "source": "Ley 1437/2011 arts. 68, 69, 71 y 72",
+          "title": "Citación, aviso y conducta concluyente",
+          "body": "1. **Citación (art. 68):** se envía dentro de los **5 días** siguientes a la expedición del acto, a la dirección, fax o correo del expediente o del registro mercantil. Si se desconocen esos datos, se publica **5 días** en la página web o en un lugar público de la entidad.\n2. **Aviso (art. 69):** si al cabo de **5 días** del envío de la citación no se logró la notificación personal, se remite un aviso con **copia íntegra** del acto. La notificación se entiende surtida **al finalizar el día siguiente a la entrega** del aviso. Si se desconoce el destinatario, el aviso se publica 5 días y la notificación se surte al finalizar el día siguiente a su **retiro**.\n\n- **Autorizado (art. 71):** solo puede **recibir** la notificación; lo que diga sobre el acto se tiene por no realizado.\n- **Conducta concluyente (art. 72):** una notificación irregular no produce efectos, **salvo** que el interesado revele que conoce el acto, lo consienta o **interponga los recursos**."
+        },
+        { "ref": "cpaca-q-014" },
+        { "ref": "cpaca-q-015" },
+        { "ref": "cpaca-q-016" },
+        { "ref": "cpaca-q-017" },
+        { "ref": "cpaca-q-018" },
+        { "ref": "cpaca-q-019" }
+      ]
+    },
+    {
+      "id": "cpaca-05",
+      "title": "Recursos: reposición, apelación y queja",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "cpaca-c-009", "type": "concept", "source": "Ley 1437/2011 arts. 74 y 75",
+          "title": "Los tres recursos y cuándo no proceden",
+          "body": "Contra los **actos definitivos** proceden (art. 74):\n\n| Recurso | Ante quién | Para qué |\n|---|---|---|\n| **Reposición** | Quien expidió la decisión | Aclarar, modificar, adicionar o revocar |\n| **Apelación** | El inmediato superior administrativo o funcional | El mismo propósito |\n| **Queja** | El superior, cuando se **rechaza la apelación** | Que se conceda la apelación (5 días) |\n\nNo hay apelación contra decisiones de **ministros, directores de departamento administrativo, superintendentes** y representantes legales de entidades descentralizadas.\n\n**No proceden recursos** contra actos **generales**, **de trámite**, **preparatorios** o **de ejecución**, salvo norma expresa (art. 75)."
+        },
+        {
+          "id": "cpaca-c-010", "type": "concept", "source": "Ley 1437/2011 arts. 76–81",
+          "title": "Plazo, requisitos y trámite",
+          "body": "- **Plazo:** reposición y apelación se interponen en la diligencia de notificación personal o dentro de los **10 días** siguientes a ella, a la notificación por aviso o al vencimiento de la publicación (art. 76).\n- **Obligatoriedad:** la **apelación**, cuando procede, es **obligatoria** para acudir al juez; **reposición y queja no** son obligatorias (art. 76).\n- **Requisitos (art. 77):** en plazo y por el interesado o su apoderado; **sustentado** con los motivos de inconformidad; con las pruebas; nombre y dirección del recurrente. **No hay que pagar** lo que exige el acto para tramitar el recurso.\n- **Rechazo (art. 78):** si faltan los requisitos 1, 2 o 4. Contra el rechazo de la apelación procede **queja**.\n- **Trámite (art. 79):** efecto **suspensivo**; se resuelven de plano salvo pruebas, cuyo término **no supera 30 días**.\n- Se puede **desistir** del recurso en cualquier tiempo (art. 81)."
+        },
+        { "ref": "cpaca-q-020" },
+        { "ref": "cpaca-q-021" },
+        { "ref": "cpaca-q-022" },
+        { "ref": "cpaca-q-023" },
+        { "ref": "cpaca-q-024" },
+        { "ref": "cpaca-q-025" }
+      ]
+    },
+    {
+      "id": "cpaca-06",
+      "title": "Silencio administrativo, firmeza y ejecutoriedad",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "cpaca-c-011", "type": "concept", "source": "Ley 1437/2011 arts. 83, 84 y 86",
+          "title": "Silencio administrativo",
+          "body": "- **Silencio negativo (art. 83):** si pasan **3 meses** desde la petición sin decisión notificada, se entiende **negada**. No exime a la autoridad de responsabilidad ni del deber de decidir (salvo que el interesado haya recurrido el acto presunto o ya se haya admitido su demanda).\n- **Silencio positivo (art. 84):** **solo** en los casos que una ley especial prevé expresamente.\n- **Silencio en recursos (art. 86):** si pasan **2 meses** desde la interposición de la reposición o apelación sin decisión notificada, se entiende **negativa**. El plazo se suspende mientras se practican pruebas."
+        },
+        {
+          "id": "cpaca-c-012", "type": "concept", "source": "Ley 1437/2011 arts. 87–92",
+          "title": "Firmeza, presunción de legalidad y pérdida de ejecutoriedad",
+          "body": "**Firmeza (art. 87).** El acto queda en firme desde el **día siguiente** a:\n1. su notificación, comunicación o publicación, si **no procede recurso**;\n2. la notificación de la decisión de los recursos;\n3. el vencimiento del plazo para recurrir sin que se haya recurrido, o la **renuncia** expresa;\n4. la notificación de la aceptación del **desistimiento**;\n5. la protocolización del silencio positivo.\n\n- **Presunción de legalidad (art. 88):** el acto es legal mientras no lo anule el juez.\n- **Carácter ejecutorio (art. 89):** el acto en firme basta para que la autoridad lo ejecute **por sí misma**.\n- **Renuencia (art. 90):** obligaciones no dinerarias incumplidas → **multas sucesivas** de 1 a 500 SMMLV.\n- **Pérdida de ejecutoriedad (art. 91):** suspensión provisional por el juez; desaparición de sus fundamentos; **5 años en firme sin ejecutarlo**; condición resolutoria; pérdida de vigencia. La excepción se resuelve en **15 días** (art. 92)."
+        },
+        { "ref": "cpaca-q-026" },
+        { "ref": "cpaca-q-027" },
+        { "ref": "cpaca-q-028" },
+        { "ref": "cpaca-q-029" },
+        { "ref": "cpaca-q-030" },
+        { "ref": "cpaca-q-031" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "cpaca-fc-001", "front": "¿A quiénes llama \"autoridades\" el CPACA?", "back": "A los organismos y entidades de las ramas del poder público, a los órganos autónomos e independientes y a los particulares cuando cumplen funciones administrativas.", "source": "Ley 1437/2011 art. 2" },
+    { "id": "cpaca-fc-002", "front": "¿Qué derechos garantiza el debido proceso administrativo?", "back": "Representación, defensa y contradicción.", "source": "Ley 1437/2011 art. 3 num. 1" },
+    { "id": "cpaca-fc-003", "front": "Impedimento: ¿plazo para enviar la actuación al superior y plazo para decidir?", "back": "3 días para enviarla; el superior decide de plano en 10 días.", "source": "Ley 1437/2011 art. 12" },
+    { "id": "cpaca-fc-004", "front": "Término general para resolver una petición", "back": "15 días siguientes a la recepción.", "source": "Ley 1437/2011 art. 14 (Ley 1755/2015)" },
+    { "id": "cpaca-fc-005", "front": "Plazo para peticiones de documentos e información", "back": "10 días; si no se responde, se entiende aceptada y las copias se entregan en 3 días.", "source": "Ley 1437/2011 art. 14 num. 1 (Ley 1755/2015)" },
+    { "id": "cpaca-fc-006", "front": "Plazo para resolver una consulta", "back": "30 días siguientes a la recepción.", "source": "Ley 1437/2011 art. 14 num. 2 (Ley 1755/2015)" },
+    { "id": "cpaca-fc-007", "front": "Si la autoridad no alcanza a responder a tiempo, ¿cuál es el límite del nuevo plazo?", "back": "No puede exceder el doble del inicialmente previsto; se avisa antes del vencimiento.", "source": "Ley 1437/2011 art. 14 parágrafo (Ley 1755/2015)" },
+    { "id": "cpaca-fc-008", "front": "Petición incompleta: plazos", "back": "Requerir en 10 días desde la radicación; el peticionario tiene hasta 1 mes (prorrogable una vez) para completar.", "source": "Ley 1437/2011 art. 17 (Ley 1755/2015)" },
+    { "id": "cpaca-fc-009", "front": "¿Cuándo es obligatorio un acto administrativo general?", "back": "Desde su publicación en el Diario Oficial o la gaceta territorial.", "source": "Ley 1437/2011 art. 65" },
+    { "id": "cpaca-fc-010", "front": "¿Qué se entrega en la notificación personal?", "back": "Copia íntegra, auténtica y gratuita del acto, con fecha y hora, recursos procedentes, ante quién y plazos.", "source": "Ley 1437/2011 art. 67" },
+    { "id": "cpaca-fc-011", "front": "Plazo para enviar la citación a notificación personal", "back": "5 días siguientes a la expedición del acto.", "source": "Ley 1437/2011 art. 68" },
+    { "id": "cpaca-fc-012", "front": "¿Cuándo queda surtida la notificación por aviso?", "back": "Al finalizar el día siguiente al de la entrega del aviso en el lugar de destino.", "source": "Ley 1437/2011 art. 69" },
+    { "id": "cpaca-fc-013", "front": "Plazo para interponer reposición y apelación", "back": "En la diligencia de notificación personal o dentro de los 10 días siguientes.", "source": "Ley 1437/2011 art. 76" },
+    { "id": "cpaca-fc-014", "front": "¿Cuál recurso es obligatorio para acudir al juez?", "back": "La apelación, cuando procede. Reposición y queja no son obligatorios.", "source": "Ley 1437/2011 art. 76" },
+    { "id": "cpaca-fc-015", "front": "Término máximo para practicar pruebas en un recurso", "back": "30 días (incluida la prórroga).", "source": "Ley 1437/2011 art. 79" },
+    { "id": "cpaca-fc-016", "front": "Silencio negativo frente a una petición", "back": "3 meses desde la presentación sin decisión notificada.", "source": "Ley 1437/2011 art. 83" },
+    { "id": "cpaca-fc-017", "front": "Silencio negativo frente a recursos", "back": "2 meses desde la interposición sin decisión notificada (se suspende durante las pruebas).", "source": "Ley 1437/2011 art. 86" },
+    { "id": "cpaca-fc-018", "front": "¿Tras cuántos años sin ejecutarse pierde ejecutoriedad un acto en firme?", "back": "5 años.", "source": "Ley 1437/2011 art. 91 num. 3" }
+  ],
+  "questions": [
+    {
+      "id": "cpaca-q-001", "type": "mcq", "difficulty": 1, "source": "Ley 1437/2011 art. 2",
+      "prompt": "¿En cuál de estos casos NO se aplica la Parte Primera del CPACA?",
+      "options": [
+        { "id": "a", "text": "A un particular que cumple funciones administrativas" },
+        { "id": "b", "text": "A la facultad de libre nombramiento y remoción" },
+        { "id": "c", "text": "A un órgano autónomo e independiente del Estado" },
+        { "id": "d", "text": "A una seccional de la DIAN que decide una solicitud" }
+      ],
+      "answer": "b",
+      "explain": "El art. 2 excluye expresamente el ejercicio de la facultad de libre nombramiento y remoción, y ciertos procedimientos militares o de policía.",
+      "optionWhy": {
+        "a": "Los particulares que cumplen funciones administrativas sí son \"autoridades\" para el Código.",
+        "c": "Los órganos autónomos e independientes están dentro del ámbito de aplicación.",
+        "d": "La DIAN es una entidad pública: el CPACA se le aplica, sin perjuicio de sus procedimientos especiales."
+      }
+    },
+    {
+      "id": "cpaca-q-002", "type": "truefalse", "difficulty": 1, "source": "Ley 1437/2011 art. 3 num. 1",
+      "statement": "En materia administrativa sancionatoria, además del debido proceso, rigen los principios de presunción de inocencia, no reformatio in pejus y non bis in idem.",
+      "answer": true,
+      "explain": "Verdadero. El numeral 1 del art. 3 añade para lo sancionatorio la legalidad de faltas y sanciones, la presunción de inocencia, la no reformatio in pejus y el non bis in idem."
+    },
+    {
+      "id": "cpaca-q-003", "type": "pjs", "difficulty": 2, "source": "Ley 1437/2011 arts. 11 y 12",
+      "case": "Un Gestor III debe sustanciar la actuación para adjudicar mercancías a una entidad. Descubre que su hermano es socio de una de las entidades interesadas.",
+      "prompt": "¿Qué debe hacer?",
+      "options": [
+        { "id": "a", "text": "Seguir con el trámite y dejar constancia del parentesco en el expediente." },
+        { "id": "b", "text": "Esperar a que alguno de los interesados presente una recusación en su contra." },
+        { "id": "c", "text": "Declararse impedido y enviar la actuación a su superior dentro de 3 días." }
+      ],
+      "answer": "c",
+      "explain": "Un pariente en segundo grado de consanguinidad con interés en el asunto es causal de impedimento (art. 11 num. 1). El servidor envía la actuación con escrito motivado al superior dentro de los 3 días siguientes (art. 12).",
+      "optionWhy": {
+        "a": "Dejar constancia no basta: el servidor debe apartarse del asunto.",
+        "b": "La recusación procede cuando el servidor no manifiesta su impedimento; el deber de declararlo es suyo."
+      }
+    },
+    {
+      "id": "cpaca-q-004", "type": "cloze", "difficulty": 1, "source": "Ley 1437/2011 art. 12",
+      "text": "El superior decide de plano sobre el impedimento dentro de los {{10}} días siguientes a la fecha de su recibo.",
+      "alternatives": { "10": ["diez"] }
+    },
+    {
+      "id": "cpaca-q-005", "type": "mcq", "difficulty": 1, "source": "Ley 1437/2011 art. 14 (Ley 1755/2015)",
+      "prompt": "Un ciudadano pide copia de un contrato. ¿En qué plazo debe resolverse la petición?",
+      "options": [
+        { "id": "a", "text": "15 días siguientes a la recepción" },
+        { "id": "b", "text": "30 días siguientes a la recepción" },
+        { "id": "c", "text": "5 días siguientes a la recepción" },
+        { "id": "d", "text": "10 días siguientes a la recepción" }
+      ],
+      "answer": "d",
+      "explain": "Las peticiones de documentos e información se resuelven en 10 días. Si no se responde, se entienden aceptadas y las copias se entregan en 3 días.",
+      "optionWhy": {
+        "a": "15 días es el término general, no el de documentos.",
+        "b": "30 días es el término para consultas.",
+        "c": "5 días es el plazo para remitir una petición al competente (art. 21)."
+      }
+    },
+    {
+      "id": "cpaca-q-006", "type": "truefalse", "difficulty": 1, "source": "Ley 1437/2011 art. 13 (Ley 1755/2015)",
+      "statement": "Para que una solicitud se tramite como derecho de petición, el ciudadano debe invocar expresamente el artículo 23 de la Constitución.",
+      "answer": false,
+      "explain": "Falso. Toda actuación que una persona inicie ante una autoridad implica el ejercicio del derecho de petición, sin que sea necesario invocarlo."
+    },
+    {
+      "id": "cpaca-q-007", "type": "pjs", "difficulty": 2, "source": "Ley 1437/2011 art. 14 parágrafo (Ley 1755/2015)",
+      "case": "Una empresa presenta una petición general a la Coordinación de Compras. Al día 12 el área advierte que necesita información de otra dependencia y no alcanzará a responder a tiempo.",
+      "prompt": "¿Qué corresponde hacer?",
+      "options": [
+        { "id": "a", "text": "Avisar a la empresa antes del día 15, explicar la demora y fijar un plazo de máximo 30 días." },
+        { "id": "b", "text": "Responder cuando llegue la información, pues la demora es por causa de otra dependencia." },
+        { "id": "c", "text": "Requerir a la empresa para que complete la petición y suspender así el término." }
+      ],
+      "answer": "a",
+      "explain": "Si excepcionalmente no se puede resolver a tiempo, la autoridad informa antes del vencimiento, con los motivos y un plazo razonable que no exceda el doble del inicial (15 × 2 = 30 días).",
+      "optionWhy": {
+        "b": "Las demoras internas no suspenden el término; responder tarde sin aviso viola el derecho de petición.",
+        "c": "El requerimiento del art. 17 es para peticiones incompletas, y la petición no lo está: falta información interna."
+      }
+    },
+    {
+      "id": "cpaca-q-008", "type": "pjs", "difficulty": 2, "source": "Ley 1437/2011 art. 21 (Ley 1755/2015)",
+      "case": "Llega por escrito a la Subdirección Administrativa una solicitud sobre la devolución de un saldo a favor de impuestos, asunto que no es de su competencia.",
+      "prompt": "¿Qué debe hacer el Gestor III que la recibe?",
+      "options": [
+        { "id": "a", "text": "Devolverla al peticionario e indicarle a qué dependencia debe dirigirla." },
+        { "id": "b", "text": "Remitirla al área competente dentro de 5 días y enviar copia del oficio al peticionario." },
+        { "id": "c", "text": "Responderla dentro de 15 días con la información general disponible." }
+      ],
+      "answer": "b",
+      "explain": "Si la petición escrita llega a quien no es competente, se remite al competente dentro de los 5 días siguientes y se envía copia del oficio remisorio al peticionario.",
+      "optionWhy": {
+        "a": "La ley no permite devolver la petición: la autoridad debe remitirla ella misma.",
+        "c": "Responder de fondo sin competencia no resuelve la petición; debe remitirse."
+      }
+    },
+    {
+      "id": "cpaca-q-009", "type": "mcq", "difficulty": 2, "source": "Ley 1437/2011 art. 17 (Ley 1755/2015)",
+      "prompt": "Si el peticionario no completa su petición en el plazo dado, la autoridad decreta el desistimiento. ¿Qué recurso procede contra ese acto?",
+      "options": [
+        { "id": "a", "text": "Solo el recurso de reposición" },
+        { "id": "b", "text": "Reposición y, en subsidio, apelación" },
+        { "id": "c", "text": "Ninguno, porque es un acto de trámite" },
+        { "id": "d", "text": "Solo el recurso de queja" }
+      ],
+      "answer": "a",
+      "explain": "El desistimiento se decreta por acto motivado que se notifica personalmente y contra el cual únicamente procede reposición. La petición puede presentarse de nuevo con todos los requisitos.",
+      "optionWhy": {
+        "b": "El art. 17 limita los recursos a la reposición.",
+        "c": "No es de trámite: pone fin a la actuación, y la ley prevé expresamente la reposición.",
+        "d": "La queja solo procede cuando se rechaza una apelación."
+      }
+    },
+    {
+      "id": "cpaca-q-010", "type": "truefalse", "difficulty": 1, "source": "Ley 1437/2011 art. 35",
+      "statement": "Cuando la autoridad inicia una actuación de oficio, puede hacerlo verbalmente.",
+      "answer": false,
+      "explain": "Falso. Las actuaciones de oficio solo pueden iniciarse por escrito (o por medio electrónico si la ley lo autoriza), y hay que informar al interesado para que ejerza su defensa."
+    },
+    {
+      "id": "cpaca-q-011", "type": "mcq", "difficulty": 2, "source": "Ley 1437/2011 art. 40",
+      "prompt": "Durante una actuación, la autoridad niega una prueba solicitada por el interesado. ¿Qué recurso procede contra esa decisión?",
+      "options": [
+        { "id": "a", "text": "Reposición, dentro de los 10 días siguientes" },
+        { "id": "b", "text": "Apelación ante el superior inmediato" },
+        { "id": "c", "text": "Ninguno: contra ese acto no hay recursos" },
+        { "id": "d", "text": "Queja ante el superior del funcionario" }
+      ],
+      "answer": "c",
+      "explain": "El art. 40 dispone que contra el acto que decide la solicitud de pruebas no proceden recursos. El interesado conserva el derecho a controvertir las pruebas antes de la decisión de fondo.",
+      "optionWhy": {
+        "a": "La reposición procede contra actos definitivos, no contra el que decide pruebas.",
+        "b": "Tampoco procede apelación: el art. 40 excluye los recursos.",
+        "d": "La queja procede solo cuando se rechaza una apelación."
+      }
+    },
+    {
+      "id": "cpaca-q-012", "type": "pjs", "difficulty": 2, "source": "Ley 1437/2011 art. 36",
+      "case": "Un proveedor pide examinar el expediente de un proceso administrativo en curso que contiene, entre otros documentos, información con reserva legal.",
+      "prompt": "¿Cómo debe atenderse la solicitud?",
+      "options": [
+        { "id": "a", "text": "Negar el acceso al expediente hasta que la actuación termine." },
+        { "id": "b", "text": "Permitir el acceso a todo el expediente, incluido lo reservado." },
+        { "id": "c", "text": "Permitir examinarlo, salvo el cuaderno separado con lo reservado." }
+      ],
+      "answer": "c",
+      "explain": "Cualquier persona puede examinar los expedientes en el estado en que se encuentren, salvo los documentos o cuadernos reservados, que se llevan en cuaderno separado.",
+      "optionWhy": {
+        "a": "El acceso no depende de que termine la actuación: es \"en el estado en que se encuentren\".",
+        "b": "La reserva legal se respeta: esos documentos van en cuaderno aparte."
+      }
+    },
+    {
+      "id": "cpaca-q-013", "type": "match", "difficulty": 2, "source": "Ley 1437/2011 arts. 34, 37, 42 y 43",
+      "prompt": "Relaciona cada concepto con su descripción.",
+      "pairs": [
+        { "left": "Acto definitivo", "right": "Decide el fondo o hace imposible continuar la actuación" },
+        { "left": "Procedimiento común", "right": "Se aplica en lo no previsto por leyes especiales" },
+        { "left": "Comunicación a terceros", "right": "Para que los afectados puedan constituirse como parte" },
+        { "left": "Decisión", "right": "Motivada y resuelve todas las peticiones oportunas" }
+      ],
+      "explain": "Arts. 43 (acto definitivo), 34 (procedimiento común y principal), 37 (terceros) y 42 (contenido de la decisión)."
+    },
+    {
+      "id": "cpaca-q-014", "type": "mcq", "difficulty": 1, "source": "Ley 1437/2011 arts. 65 y 66",
+      "prompt": "Una resolución que fija reglas para todos los usuarios de las bodegas de la DIAN, ¿cómo se da a conocer para que sea obligatoria?",
+      "options": [
+        { "id": "a", "text": "Por notificación personal a cada usuario" },
+        { "id": "b", "text": "Por publicación en el Diario Oficial" },
+        { "id": "c", "text": "Por aviso enviado a cada dirección registrada" },
+        { "id": "d", "text": "Por comunicación a la Procuraduría" }
+      ],
+      "answer": "b",
+      "explain": "Es un acto de carácter general: no es obligatorio mientras no se publique en el Diario Oficial (art. 65). Los actos particulares, en cambio, se notifican (art. 66).",
+      "optionWhy": {
+        "a": "La notificación personal es para actos de carácter particular.",
+        "c": "El aviso es una forma subsidiaria de notificar actos particulares.",
+        "d": "La ley no condiciona la obligatoriedad a una comunicación a la Procuraduría."
+      }
+    },
+    {
+      "id": "cpaca-q-015", "type": "truefalse", "difficulty": 1, "source": "Ley 1437/2011 art. 67",
+      "statement": "Si en la notificación personal no se indican los recursos que proceden contra el acto, la notificación es inválida.",
+      "answer": true,
+      "explain": "Verdadero. El art. 67 exige indicar los recursos, ante quién y los plazos, y dice que el incumplimiento de cualquiera de estos requisitos invalida la notificación."
+    },
+    {
+      "id": "cpaca-q-016", "type": "order", "difficulty": 2, "source": "Ley 1437/2011 arts. 68, 69 y 76",
+      "prompt": "Ordena los pasos para notificar un acto particular cuando el interesado no comparece.",
+      "items": [
+        "Expedición del acto administrativo",
+        "Envío de la citación dentro de los 5 días siguientes",
+        "Vencen 5 días sin que el interesado comparezca",
+        "Remisión del aviso con copia íntegra del acto",
+        "Notificación surtida al finalizar el día siguiente a la entrega",
+        "Corren 10 días para interponer los recursos"
+      ],
+      "explain": "Citación (art. 68), aviso si no comparece en 5 días (art. 69) y, una vez surtida la notificación, el plazo de 10 días para recurrir (art. 76)."
+    },
+    {
+      "id": "cpaca-q-017", "type": "pjs", "difficulty": 2, "source": "Ley 1437/2011 art. 72",
+      "case": "Una resolución que niega la solicitud de un proveedor se notificó sin indicar los recursos. Aun así, el interesado presentó un recurso de reposición dentro del plazo.",
+      "prompt": "¿Qué efecto tiene esa actuación del interesado?",
+      "options": [
+        { "id": "a", "text": "La notificación sigue siendo inválida y debe repetirse antes de resolver." },
+        { "id": "b", "text": "Hay notificación por conducta concluyente y el recurso debe tramitarse." },
+        { "id": "c", "text": "El recurso se rechaza porque la notificación no produjo efectos legales." }
+      ],
+      "answer": "b",
+      "explain": "La notificación irregular no produce efectos, a menos que el interesado revele que conoce el acto, lo consienta o interponga los recursos legales (art. 72).",
+      "optionWhy": {
+        "a": "Al interponer el recurso, el interesado se da por notificado; no hace falta repetir la diligencia.",
+        "c": "Rechazar el recurso desconocería la conducta concluyente y el derecho de defensa."
+      }
+    },
+    {
+      "id": "cpaca-q-018", "type": "cloze", "difficulty": 1, "source": "Ley 1437/2011 art. 68",
+      "text": "La citación para notificación personal se envía dentro de los {{5}} días siguientes a la expedición del acto.",
+      "alternatives": { "5": ["cinco"] }
+    },
+    {
+      "id": "cpaca-q-019", "type": "mcq", "difficulty": 2, "source": "Ley 1437/2011 art. 71",
+      "prompt": "Una persona autorizada por escrito para notificarse en nombre del interesado manifiesta en la diligencia que acepta la decisión. ¿Qué efecto tiene esa manifestación?",
+      "options": [
+        { "id": "a", "text": "Equivale a la renuncia a los recursos" },
+        { "id": "b", "text": "Deja en firme el acto desde ese día" },
+        { "id": "c", "text": "Se tiene por no realizada, de pleno derecho" },
+        { "id": "d", "text": "Obliga al interesado a ratificarla en 2 meses" }
+      ],
+      "answer": "c",
+      "explain": "El autorizado solo está facultado para recibir la notificación; cualquier manifestación sobre el acto se tiene, de pleno derecho, por no realizada (art. 71).",
+      "optionWhy": {
+        "a": "El autorizado no puede renunciar a recursos en nombre del interesado.",
+        "b": "La firmeza depende de los recursos del interesado, no de lo que diga el autorizado.",
+        "d": "La ratificación en 2 meses es para el agente oficioso que interpone recursos (art. 77)."
+      }
+    },
+    {
+      "id": "cpaca-q-020", "type": "mcq", "difficulty": 1, "source": "Ley 1437/2011 art. 74",
+      "prompt": "¿Ante quién se interpone el recurso de reposición?",
+      "options": [
+        { "id": "a", "text": "Ante el inmediato superior administrativo" },
+        { "id": "b", "text": "Ante el procurador regional o el personero" },
+        { "id": "c", "text": "Ante el jefe de la oficina de control interno" },
+        { "id": "d", "text": "Ante el mismo funcionario que expidió el acto" }
+      ],
+      "answer": "d",
+      "explain": "La reposición va ante quien expidió la decisión, para que la aclare, modifique, adicione o revoque. La apelación va ante el inmediato superior.",
+      "optionWhy": {
+        "a": "Ante el superior se interpone la apelación.",
+        "b": "Al procurador o personero se acude solo si el competente se niega a recibir el recurso (art. 76).",
+        "c": "Control interno no resuelve recursos administrativos."
+      }
+    },
+    {
+      "id": "cpaca-q-021", "type": "truefalse", "difficulty": 1, "source": "Ley 1437/2011 art. 75",
+      "statement": "Contra los actos de trámite proceden, por regla general, los recursos de reposición y apelación.",
+      "answer": false,
+      "explain": "Falso. No hay recurso contra actos generales, de trámite, preparatorios o de ejecución, salvo norma expresa. Los recursos proceden contra actos definitivos (art. 74)."
+    },
+    {
+      "id": "cpaca-q-022", "type": "pjs", "difficulty": 3, "source": "Ley 1437/2011 arts. 74 y 78",
+      "case": "Un funcionario rechaza un recurso de apelación porque el escrito no expresa los motivos de inconformidad. El recurrente considera que sí los expresó.",
+      "prompt": "¿Qué puede hacer el recurrente frente al rechazo?",
+      "options": [
+        { "id": "a", "text": "Presentar recurso de queja ante el superior, con copia de la providencia que negó la apelación." },
+        { "id": "b", "text": "Presentar una nueva apelación ante el mismo funcionario que rechazó la primera." },
+        { "id": "c", "text": "Pedir revocatoria directa al funcionario, pues contra el rechazo no hay recurso." }
+      ],
+      "answer": "a",
+      "explain": "Contra el rechazo de la apelación procede la queja (art. 78). Se presenta ante el superior, con copia de la providencia que negó el recurso, dentro de los 5 días siguientes (art. 74 num. 3).",
+      "optionWhy": {
+        "b": "Repetir la apelación no es un mecanismo previsto: el medio es la queja ante el superior.",
+        "c": "Sí hay recurso contra el rechazo de la apelación: la queja."
+      }
+    },
+    {
+      "id": "cpaca-q-023", "type": "mcq", "difficulty": 2, "source": "Ley 1437/2011 art. 76",
+      "prompt": "Respecto de la obligatoriedad de los recursos para acudir a la jurisdicción, es correcto afirmar que:",
+      "options": [
+        { "id": "a", "text": "La reposición es obligatoria y la apelación no" },
+        { "id": "b", "text": "La apelación, cuando procede, es obligatoria" },
+        { "id": "c", "text": "Los tres recursos son obligatorios siempre" },
+        { "id": "d", "text": "La queja es obligatoria cuando hay superior" }
+      ],
+      "answer": "b",
+      "explain": "La apelación, cuando procede, es obligatoria para acceder a la jurisdicción. Los recursos de reposición y queja no son obligatorios (art. 76).",
+      "optionWhy": {
+        "a": "Es al revés: la reposición no es obligatoria.",
+        "c": "Reposición y queja no son obligatorios.",
+        "d": "La queja es facultativa (art. 74 num. 3)."
+      }
+    },
+    {
+      "id": "cpaca-q-024", "type": "pjs", "difficulty": 2, "source": "Ley 1437/2011 art. 77",
+      "case": "Un contratista recurre una resolución que le ordena pagar una suma de dinero. El funcionario le dice que no tramitará el recurso hasta que pague el valor exigido.",
+      "prompt": "¿Es correcta la exigencia del funcionario?",
+      "options": [
+        { "id": "a", "text": "Sí, porque el pago garantiza la seriedad del recurso." },
+        { "id": "b", "text": "Sí, pero solo si el recurso es el de apelación." },
+        { "id": "c", "text": "No, porque el recurso se tramita sin pagar lo exigido." }
+      ],
+      "answer": "c",
+      "explain": "El art. 77 dispone que para tramitar el recurso el recurrente no está obligado a pagar la suma que el acto le exija; puede pagar lo que reconoce deber.",
+      "optionWhy": {
+        "a": "La ley no exige pago previo como requisito del recurso.",
+        "b": "La regla del art. 77 aplica a ambos recursos."
+      }
+    },
+    {
+      "id": "cpaca-q-025", "type": "open", "difficulty": 2, "source": "Ley 1437/2011 arts. 74 y 76",
+      "prompt": "Explica la diferencia entre los recursos de reposición y apelación: ante quién se presentan, en qué plazo y si son obligatorios.",
+      "modelAnswer": "La reposición se presenta ante quien expidió el acto; la apelación, ante el inmediato superior. Ambos se interponen en la notificación personal o dentro de los 10 días siguientes. La apelación, cuando procede, es obligatoria para acudir al juez; la reposición no.",
+      "keyPoints": ["Reposición → quien expidió el acto", "Apelación → inmediato superior", "10 días", "Apelación obligatoria; reposición no"],
+      "keywords": ["reposicion", "apelacion", "superior", "10 dias", "obligatori"],
+      "minKeywords": 3
+    },
+    {
+      "id": "cpaca-q-026", "type": "mcq", "difficulty": 1, "source": "Ley 1437/2011 art. 83",
+      "prompt": "¿Cuánto tiempo debe pasar sin decisión notificada para que se configure el silencio negativo frente a una petición?",
+      "options": [
+        { "id": "a", "text": "Tres meses desde la presentación" },
+        { "id": "b", "text": "Dos meses desde la presentación" },
+        { "id": "c", "text": "Quince días desde la presentación" },
+        { "id": "d", "text": "Un año desde la presentación" }
+      ],
+      "answer": "a",
+      "explain": "Transcurridos 3 meses desde la petición sin decisión notificada, se entiende negativa (art. 83).",
+      "optionWhy": {
+        "b": "Dos meses es el plazo del silencio negativo en recursos (art. 86).",
+        "c": "Quince días es el término para resolver, no el del silencio.",
+        "d": "La ley no prevé un año."
+      }
+    },
+    {
+      "id": "cpaca-q-027", "type": "truefalse", "difficulty": 1, "source": "Ley 1437/2011 art. 84",
+      "statement": "El silencio administrativo positivo procede en cualquier petición cuando la ley no fija un plazo especial.",
+      "answer": false,
+      "explain": "Falso. El silencio positivo solo opera en los casos expresamente previstos en disposiciones legales especiales. La regla general es el silencio negativo."
+    },
+    {
+      "id": "cpaca-q-028", "type": "pjs", "difficulty": 3, "source": "Ley 1437/2011 arts. 79 y 86",
+      "case": "Un recurso de apelación se interpuso hace dos meses y medio. Durante 20 días se practicaron pruebas pedidas por el recurrente, y aún no hay decisión notificada.",
+      "prompt": "¿Se configuró el silencio negativo en el recurso?",
+      "options": [
+        { "id": "a", "text": "Sí, porque ya pasaron más de dos meses desde que se interpuso." },
+        { "id": "b", "text": "No, porque el plazo se suspende mientras se practican las pruebas." },
+        { "id": "c", "text": "No, porque el silencio en recursos solo aplica a la reposición." }
+      ],
+      "answer": "b",
+      "explain": "El silencio negativo en recursos ocurre a los 2 meses, pero ese plazo se suspende mientras dura la práctica de pruebas (art. 86). Descontados los 20 días, aún no se cumplen los 2 meses.",
+      "optionWhy": {
+        "a": "No descuenta la suspensión por pruebas.",
+        "c": "El art. 86 cubre tanto la reposición como la apelación."
+      }
+    },
+    {
+      "id": "cpaca-q-029", "type": "order", "difficulty": 2, "source": "Ley 1437/2011 arts. 67, 76 y 87",
+      "prompt": "Ordena los hechos para que un acto particular quede en firme cuando nadie lo recurre.",
+      "items": [
+        "Expedición del acto",
+        "Notificación personal con indicación de recursos",
+        "Corren 10 días para recurrir",
+        "Vence el plazo sin que se interponga recurso",
+        "El acto queda en firme desde el día siguiente"
+      ],
+      "explain": "Si no se interponen recursos, el acto queda en firme desde el día siguiente al vencimiento del término para interponerlos (art. 87 num. 3)."
+    },
+    {
+      "id": "cpaca-q-030", "type": "mcq", "difficulty": 2, "source": "Ley 1437/2011 art. 91",
+      "prompt": "¿Cuál de estas es causal de pérdida de ejecutoriedad de un acto administrativo?",
+      "options": [
+        { "id": "a", "text": "Que el interesado presente una nueva petición" },
+        { "id": "b", "text": "Que cambie el funcionario que lo expidió" },
+        { "id": "c", "text": "Que pasen 5 años en firme sin ejecutarlo" },
+        { "id": "d", "text": "Que el interesado no lo haya consentido" }
+      ],
+      "answer": "c",
+      "explain": "El art. 91 incluye: suspensión provisional, desaparición de fundamentos, 5 años en firme sin que la autoridad lo ejecute, cumplimiento de condición resolutoria y pérdida de vigencia.",
+      "optionWhy": {
+        "a": "Una nueva petición no afecta la obligatoriedad del acto en firme.",
+        "b": "El cambio de funcionario no afecta el acto: la competencia es del cargo.",
+        "d": "Los actos se presumen legales y son obligatorios sin necesidad de consentimiento (arts. 88 y 89)."
+      }
+    },
+    {
+      "id": "cpaca-q-031", "type": "pjs", "difficulty": 2, "source": "Ley 1437/2011 arts. 89 y 90",
+      "case": "Un acto en firme ordena a un tercero retirar sus bienes de una bodega de la DIAN. El tercero se niega a cumplir.",
+      "prompt": "¿Qué puede hacer la entidad?",
+      "options": [
+        { "id": "a", "text": "Pedir al juez una orden previa, porque la entidad no puede ejecutar sus propios actos." },
+        { "id": "b", "text": "Abstenerse de actuar hasta que el tercero acepte voluntariamente la decisión." },
+        { "id": "c", "text": "Imponer multas sucesivas y, si es necesario, ejecutar el retiro a costa del renuente." }
+      ],
+      "answer": "c",
+      "explain": "Los actos en firme son ejecutables por la propia autoridad (art. 89). Ante una obligación no dineraria incumplida, se imponen multas sucesivas de 1 a 500 SMMLV, y la administración puede ejecutar directamente o contratar la ejecución, imputando los gastos al renuente (art. 90).",
+      "optionWhy": {
+        "a": "La ejecución procede sin mediación de otra autoridad (art. 89).",
+        "b": "El acto en firme es obligatorio sin necesidad de aceptación del particular."
+      }
+    }
+  ]
+}
