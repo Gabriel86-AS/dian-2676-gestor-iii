@@ -1,7 +1,7 @@
 # DIAN 2676 · Gestor III — Plan maestro (leer primero en cada sesión)
 
 ## Objetivo
-Sitio de estudio estático (GitHub Pages) para la prueba escrita **DIAN 2676 (CNSC/Areandina)**, empleo **Gestor III, código 303, grado 03, nivel Profesional**, ficha **AF-LF-3005** (Res. DIAN 0067 del 11-abr-2024, MERF). Proceso **Administrativo y Financiero**, subproceso **Recursos administrativos, operación logística, compras y contratos**. Fuente: `manual/manual_de_funciones-gestor3_jiovani.pdf` (2 págs.).
+Sitio de estudio estático (GitHub Pages) para la prueba escrita **DIAN 2676 (CNSC/Areandina)**, empleo **Gestor III, código 303, grado 03, nivel Profesional**, ficha **AF-LF-3005** (Res. DIAN 0067 del 11-abr-2024, MERF). Proceso **Administrativo y Financiero**, subproceso **Recursos administrativos, operación logística, compras y contratos**. Fuente: el PDF del manual de funciones en `manual/` (2 págs.).
 
 - **OPEC:** pendiente (pedirla a la persona usuaria; no inventarla).
 - **Fecha del examen:** se asume la misma de la convocatoria, domingo 8-nov-2026, 8:00 a. m.–1:00 p. m. Confirmar con la citación.

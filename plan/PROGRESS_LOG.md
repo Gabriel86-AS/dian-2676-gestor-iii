@@ -113,7 +113,7 @@ Sitio en vivo: https://gabriel86-as.github.io/dian-2676-estudio/ · Repo: https:
 - La prueba en un celular real y la descarga del archivo de exportación en el teléfono quedan a cargo de la candidata o el candidato (la QA se hizo con emulación móvil en Edge headless).
 
 ## Gestor III · Fase 1 (2026-11-04): copia y adaptación
-- Repo nuevo copiado de `dian-2676-estudio` (Gestor I) sin historia. Fuente del empleo: `manual/manual_de_funciones-gestor3_jiovani.pdf` (ficha AF-LF-3005).
+- Repo nuevo copiado de `dian-2676-estudio` (Gestor I) sin historia. Fuente del empleo: el PDF del manual de funciones en `manual/` (ficha AF-LF-3005).
 - Claves `dian2676g3:*` y cachés `dian2676g3-*` para no chocar con el sitio de Gestor I en el mismo dominio.
 - Se quitaron las 7 unidades tributarias; manifiesto con 10 unidades nuevas pendientes. Simulacros regenerados con las 6 heredadas.
 - Plan nuevo en `plan_and_context/00_OVERVIEW.md`; el de Gestor I quedó en `plan_and_context/gestor1_referencia/`.

@@ -2,7 +2,7 @@
 
 Sitio de estudio para la prueba escrita **DIAN 2676 – Gestor III (código 303, grado 03, nivel Profesional; ficha AF-LF-3005, Administrativo y Financiero)**, domingo **8 de noviembre de 2026**, 8:00 a. m.–1:00 p. m.
 
-**En vivo:** https://gabriel86-as.github.io/dian-2676-gestor-iii/ (pendiente de publicar)
+**En vivo:** https://gabriel86-as.github.io/dian-2676-gestor-iii/
 
 HTML, CSS y JavaScript sin frameworks ni paso de compilación; contenido en JSON; pensado primero para el celular.
 
