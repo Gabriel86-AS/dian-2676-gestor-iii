@@ -129,3 +129,8 @@ Sitio en vivo: https://gabriel86-as.github.io/dian-2676-estudio/ · Repo: https:
 
 ## Gestor III · Fase 2 (2026-11-04): custodia de mercancías
 - Unidad `custodia-mercancias` (prefijo `cust`): 5 lecciones, 16 tarjetas, 28 preguntas (7 PJS). Fuentes: D. 1165/2019 art. 3 y Título 20 (arts. 732–753, texto vigente tras D. 360/2021 y D. 659/2024), Ley 2586/2026 arts. 48, 52, 114 (derogó el DL 920/2023), ET arts. 836-1 y 840 (página del Senado guardada en `gestor3/et_833_852.txt`).
+
+## Gestor III · Fase 2 (2026-11-04): ingreso de mercancías — fase cerrada
+- Unidad `ingreso-mercancias` (prefijo `ingm`): 4 lecciones, 14 tarjetas, 24 preguntas (6 PJS). Fuentes: D. 1165/2019 art. 171 y Res. DIAN 46/2019 arts. 626, 652–658, 666–671 (normograma DIAN, guardada en `gestor3/res46_2019.txt`).
+- Se omitió el plazo adicional "hasta la mitad" del art. 626 de la Res. 46 porque choca con los 10 días hábiles adicionales del art. 745 del D. 1165 (donación).
+- Pruebas: progress 14/14, simulacro 9/9, E2E qa-site 27/27, simulacro-basico 15/15, simulacro-examen 10/10.

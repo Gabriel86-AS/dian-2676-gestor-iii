@@ -2,7 +2,7 @@
   "units": [
     { "id": "contratacion", "file": "units/contratacion.json", "title": "Contratación pública", "area": "funcional", "priority": 1 },
     { "id": "custodia-mercancias", "file": "units/custodia-mercancias.json", "title": "Custodia y disposición de mercancías aprehendidas, decomisadas o abandonadas", "area": "funcional", "priority": 1 },
-    { "id": "ingreso-mercancias", "file": "units/ingreso-mercancias.json", "title": "Control de ingresos, almacenamiento y registro de mercancías", "area": "funcional", "priority": 1, "pending": true },
+    { "id": "ingreso-mercancias", "file": "units/ingreso-mercancias.json", "title": "Control de ingresos, almacenamiento y registro de mercancías", "area": "funcional", "priority": 1 },
     { "id": "procedimiento-administrativo", "file": "units/procedimiento-administrativo.json", "title": "Procedimiento administrativo (Ley 1437/2011) y recursos", "area": "funcional", "priority": 1 },
     { "id": "servicios-infraestructura", "file": "units/servicios-infraestructura.json", "title": "Administración de servicios, infraestructura, inventarios y parque automotor", "area": "funcional", "priority": 2, "pending": true },
     { "id": "siif", "file": "units/siif.json", "title": "Operación del SIIF Nación II", "area": "funcional", "priority": 2, "pending": true },

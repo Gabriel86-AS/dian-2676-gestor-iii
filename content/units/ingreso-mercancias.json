@@ -1,0 +1,418 @@
+{
+  "id": "ingreso-mercancias",
+  "title": "Control de ingresos, almacenamiento y registro de mercancías",
+  "area": "funcional",
+  "priority": 1,
+  "summary": "Permanencia en depósito, abandono legal y rescate; ingreso y egreso de mercancías en los recintos de almacenamiento de la DIAN; avalúo de ingreso y matrícula de depósito; faltantes y sobrantes; destrucción abreviada de mercancías en abandono.",
+  "sources": [
+    "Decreto 1165 de 2019, arts. 171 y 749",
+    "Resolución DIAN 46 de 2019, arts. 626, 652–658 y 666–671"
+  ],
+  "lessons": [
+    {
+      "id": "ingm-01",
+      "title": "Permanencia en depósito, abandono y rescate",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "ingm-c-001", "type": "concept", "source": "D. 1165/2019 art. 171",
+          "title": "Los plazos que llevan al abandono",
+          "body": "1. **Permanencia:** la mercancía puede estar almacenada en el depósito, mientras se tramita su levante, hasta **1 mes** desde su llegada al territorio aduanero. El tránsito **suspende** ese término. Puede **prorrogarse hasta 1 mes más** si la autoridad aduanera lo autoriza.\n2. **Abandono legal:** vencido ese término sin levante ni reembarque, opera de pleno derecho.\n3. **Rescate:** el interesado puede rescatar la mercancía dentro del **mes siguiente** a la fecha del abandono.\n4. **Disposición:** pasado el término de rescate sin declaración de legalización, la mercancía es **propiedad de la Nación** y la DIAN puede disponer de ella.\n\nCuando el depósito informa que venció el término de rescate, la Dirección Seccional traslada la mercancía a los recintos del operador logístico de la DIAN (D. 1165, art. 732)."
+        },
+        { "ref": "ingm-q-001" },
+        { "ref": "ingm-q-002" },
+        { "ref": "ingm-q-003" },
+        { "ref": "ingm-q-004" },
+        { "ref": "ingm-q-005" }
+      ]
+    },
+    {
+      "id": "ingm-02",
+      "title": "Ingreso y egreso de los recintos de almacenamiento",
+      "minutes": 8,
+      "steps": [
+        {
+          "id": "ingm-c-002", "type": "concept", "source": "Res. DIAN 46/2019 arts. 652 y 653",
+          "title": "Valor de ingreso y autorización de egreso",
+          "body": "**Avalúo de ingreso (art. 652).** Cuando entra a un recinto una mercancía aprehendida, decomisada o abandonada, su **valor de ingreso** es:\n- el señalado en el **acto administrativo** que hizo efectiva la medida, o\n- el consignado en el **acta de inventario** de la mercancía en abandono.\n\nEse valor sirve para calcular el **almacenamiento** cuando se pactan **tarifas ad valórem**, los **seguros** y los **faltantes**. Puede ajustarse por una valuación de la DIAN o del evaluador contratado; el nuevo valor rige para el pago desde que la DIAN lo **comunica por escrito** al contratista.\n\n**Egreso (art. 653).** La DIAN **autoriza** la salida cuando:\n- la disposición se ordenó por **acto administrativo o contrato**, o\n- hay solicitud de retiro por **orden de la autoridad aduanera** dentro del proceso de decomiso, o por **orden judicial**."
+        },
+        {
+          "id": "ingm-c-003", "type": "concept", "source": "Res. DIAN 46/2019 art. 626",
+          "title": "Retiro de la mercancía y matrícula de depósito",
+          "body": "Notificado el acto que ordena la disposición o la entrega, la entidad o el particular retira la mercancía dentro de los **10 días hábiles** siguientes; si es **perecedera**, **de inmediato**.\n\nSi no la retira a tiempo, los gastos de almacenamiento, guarda, custodia y conservación corren **por su cuenta**.\n\nPor eso, el acto ordena al recinto:\n1. **cancelar la matrícula de depósito** (o documento equivalente) a nombre de la DIAN;\n2. **registrar el egreso** en el sistema;\n3. elaborar una **nueva matrícula** a nombre de quien recibe."
+        },
+        { "ref": "ingm-q-006" },
+        { "ref": "ingm-q-007" },
+        { "ref": "ingm-q-008" },
+        { "ref": "ingm-q-009" },
+        { "ref": "ingm-q-010" },
+        { "ref": "ingm-q-011" }
+      ]
+    },
+    {
+      "id": "ingm-03",
+      "title": "Faltantes y sobrantes de mercancías",
+      "minutes": 9,
+      "steps": [
+        {
+          "id": "ingm-c-004", "type": "concept", "source": "Res. DIAN 46/2019 art. 654",
+          "title": "¿Qué es un faltante?",
+          "body": "En recintos de almacenamiento y depósitos habilitados hay **faltante**, entre otros casos, cuando:\n- la mercancía **no se encuentra** físicamente;\n- hay **envases vacíos** o con el contenido **adulterado**;\n- hay **deterioros o mermas imputables** al recinto o depósito;\n- la descripción o cantidad física **no coincide** con lo registrado en los documentos o en el sistema de la DIAN;\n- al entregarla, no corresponde a lo **inventariado y alistado**;\n- faltan **piezas, partes, accesorios o repuestos**.\n\n**No hay faltante** cuando la diferencia se debe a fenómenos **atmosféricos, físicos o químicos** justificados, o a mermas propias de la **naturaleza** de la mercancía (par. 1).\n\n**Hurto (par. 2):** el recinto lo **denuncia de inmediato** y envía copia al Director Seccional, quien **suspende el pago** del almacenamiento de esos documentos de ingreso hasta que el recinto haga inventario físico y determine el faltante real."
+        },
+        {
+          "id": "ingm-c-005", "type": "concept", "source": "Res. DIAN 46/2019 arts. 655, 656 y 658",
+          "title": "Trámite de faltantes y sobrantes",
+          "body": "**Faltantes:**\n1. El recinto tiene **5 días hábiles** desde la comunicación del faltante para **ubicar** la mercancía y ponerla a disposición de la DIAN (art. 655).\n2. Vencido el plazo, se verifica si la mercancía presentada es idéntica o similar.\n3. Confirmado el faltante, un funcionario delegado levanta el **acta de faltantes** (incluye la liquidación de su valor), se notifica al contratista y se **suspende el pago** del almacenamiento desde la identificación del faltante.\n4. **Valor (art. 656):** el registrado o actualizado en el documento de **control de existencias**, o un estudio de mercado. Se factura al recinto, que paga en **30 días calendario**; si no paga, la DIAN **descuenta** el valor de lo que le debe por almacenamiento.\n5. Si la mercancía aparece después, se **destruye** bajo supervisión aduanera. **No se devuelve** el dinero pagado.\n\n**Sobrantes (art. 658):** si una inspección, muestreo o inventario arroja **más** mercancía de la registrada, se levanta un **acta** y se comunica a **Fiscalización** para formalizar el ingreso. Si es mercancía en abandono, se informa a la División de Gestión de **Operación Aduanera** para ajustar bultos y peso."
+        },
+        { "ref": "ingm-q-012" },
+        { "ref": "ingm-q-013" },
+        { "ref": "ingm-q-014" },
+        { "ref": "ingm-q-015" },
+        { "ref": "ingm-q-016" },
+        { "ref": "ingm-q-017" },
+        { "ref": "ingm-q-018" }
+      ]
+    },
+    {
+      "id": "ingm-04",
+      "title": "Destrucción abreviada de mercancías en abandono",
+      "minutes": 7,
+      "steps": [
+        {
+          "id": "ingm-c-006", "type": "concept", "source": "D. 1165/2019 art. 171 par. 2; Res. DIAN 46/2019 arts. 666–671",
+          "title": "Cuándo y cómo se destruye sin pasar por bodega",
+          "body": "**Cuándo (Res. 46, art. 666):** mercancías en abandono legal **totalmente dañadas**, que generen **riesgo** a la seguridad o salubridad (según autoridad competente), con **fecha de vencimiento expirada** o calificadas como **sin valor de comercialización**.\n\nEstas mercancías **nunca** se trasladan a los recintos de la DIAN, y la DIAN **no** paga bodegaje ni destrucción: los paga el **titular del documento de transporte** (D. 1165, art. 171 par. 2).\n\n**Pasos:**\n1. El **usuario aduanero** reporta a Operación Aduanera, a más tardar el **día hábil siguiente** al abandono legal (art. 667).\n2. El Grupo de **Comercialización**, mediante auto comisorio, ordena la **inspección física** dentro de **2 días hábiles** del reporte, y se diligencia el **Acta de Inventario y Avalúo** por cada documento de transporte (art. 668).\n3. Se expide la **resolución de destrucción abreviada** (firma del Director Seccional) dentro de **3 días hábiles** después de la inspección, y se notifica **por correo** (art. 669).\n4. El usuario programa la destrucción dentro de **15 días calendario**, la ejecuta y **asume los costos** (arts. 669 y 670).\n5. Funcionarios de Comercialización **supervisan**, levantan el **acta de destrucción** y verifican los registros; se cumplen las normas **ambientales** (art. 671)."
+        },
+        { "ref": "ingm-q-019" },
+        { "ref": "ingm-q-020" },
+        { "ref": "ingm-q-021" },
+        { "ref": "ingm-q-022" },
+        { "ref": "ingm-q-023" },
+        { "ref": "ingm-q-024" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "id": "ingm-fc-001", "front": "Término de permanencia de la mercancía en depósito", "back": "Hasta 1 mes desde la llegada al territorio aduanero, prorrogable hasta 1 mes más si la autoridad lo autoriza.", "source": "D. 1165/2019 art. 171" },
+    { "id": "ingm-fc-002", "front": "Plazo para rescatar mercancía en abandono legal", "back": "Dentro del mes siguiente a la fecha en que se produce el abandono.", "source": "D. 1165/2019 art. 171 par. 1" },
+    { "id": "ingm-fc-003", "front": "¿Qué pasa si vence el término de rescate sin legalizar?", "back": "La mercancía es propiedad de la Nación y la DIAN puede disponer de ella.", "source": "D. 1165/2019 art. 171 par. 1" },
+    { "id": "ingm-fc-004", "front": "Valor de ingreso de una mercancía aprehendida a un recinto", "back": "El señalado en el acto que hizo efectiva la medida, o el del acta de inventario si es mercancía en abandono.", "source": "Res. DIAN 46/2019 art. 652" },
+    { "id": "ingm-fc-005", "front": "¿Para qué sirve el avalúo de ingreso?", "back": "Para liquidar el almacenamiento con tarifas ad valórem, los seguros y los faltantes.", "source": "Res. DIAN 46/2019 art. 652" },
+    { "id": "ingm-fc-006", "front": "¿Cuándo autoriza la DIAN el egreso de mercancías de un recinto?", "back": "Cuando hay acto administrativo o contrato de disposición, u orden de la autoridad aduanera o judicial.", "source": "Res. DIAN 46/2019 art. 653" },
+    { "id": "ingm-fc-007", "front": "Plazo para retirar la mercancía tras el acto de disposición o entrega", "back": "10 días hábiles; si es perecedera, de inmediato.", "source": "Res. DIAN 46/2019 art. 626" },
+    { "id": "ingm-fc-008", "front": "Plazo del recinto para ubicar un faltante", "back": "5 días hábiles desde la comunicación del faltante.", "source": "Res. DIAN 46/2019 art. 655" },
+    { "id": "ingm-fc-009", "front": "Plazo para pagar la factura de un faltante", "back": "30 días calendario desde su presentación; si no, la DIAN lo descuenta del pago del almacenamiento.", "source": "Res. DIAN 46/2019 art. 656" },
+    { "id": "ingm-fc-010", "front": "¿Qué se hace con un sobrante de mercancía?", "back": "Se levanta un acta y se comunica a Fiscalización para formalizar el ingreso.", "source": "Res. DIAN 46/2019 art. 658" },
+    { "id": "ingm-fc-011", "front": "Causales de destrucción abreviada de mercancía en abandono", "back": "Totalmente dañada, riesgo de seguridad o salubridad, vencida o sin valor de comercialización.", "source": "Res. DIAN 46/2019 art. 666" },
+    { "id": "ingm-fc-012", "front": "¿Quién paga la destrucción abreviada?", "back": "El usuario aduanero o el titular del documento de transporte; nunca la DIAN.", "source": "D. 1165/2019 art. 171 par. 2; Res. DIAN 46/2019 art. 670" },
+    { "id": "ingm-fc-013", "front": "Destrucción abreviada: plazo para la inspección física", "back": "2 días hábiles siguientes al recibo del reporte (prorrogable).", "source": "Res. DIAN 46/2019 art. 668" },
+    { "id": "ingm-fc-014", "front": "Destrucción abreviada: plazo para la resolución y para programar la destrucción", "back": "Resolución en 3 días hábiles tras la inspección; destrucción programada en 15 días calendario desde la notificación.", "source": "Res. DIAN 46/2019 art. 669" }
+  ],
+  "questions": [
+    {
+      "id": "ingm-q-001", "type": "mcq", "difficulty": 1, "source": "D. 1165/2019 art. 171",
+      "prompt": "¿Cuánto tiempo puede permanecer una mercancía en el depósito mientras se tramita su levante, sin prórroga?",
+      "options": [
+        { "id": "a", "text": "Hasta 15 días desde su llegada" },
+        { "id": "b", "text": "Hasta 1 mes desde su llegada" },
+        { "id": "c", "text": "Hasta 2 meses desde su llegada" },
+        { "id": "d", "text": "Hasta 3 meses desde su llegada" }
+      ],
+      "answer": "b",
+      "explain": "El término es de 1 mes desde la llegada al territorio aduanero nacional, prorrogable hasta por 1 mes adicional si la autoridad aduanera lo autoriza.",
+      "optionWhy": {
+        "a": "La norma no fija 15 días.",
+        "c": "Dos meses solo se alcanzan con la prórroga autorizada.",
+        "d": "No existe un término de 3 meses."
+      }
+    },
+    {
+      "id": "ingm-q-002", "type": "truefalse", "difficulty": 1, "source": "D. 1165/2019 art. 171",
+      "statement": "Si la mercancía estuvo en tránsito aduanero, la duración del tránsito suspende el término de permanencia en el depósito.",
+      "answer": true,
+      "explain": "Verdadero. Cuando la mercancía se somete a la modalidad de tránsito, su duración suspende el término hasta la cancelación de ese régimen."
+    },
+    {
+      "id": "ingm-q-003", "type": "order", "difficulty": 2, "source": "D. 1165/2019 arts. 171 y 732",
+      "prompt": "Ordena lo que ocurre con una mercancía que nadie reclama en el depósito.",
+      "items": [
+        "Llega la mercancía al territorio aduanero",
+        "Vence el término de permanencia sin levante",
+        "Opera el abandono legal",
+        "Vence el mes para rescatarla",
+        "La mercancía es de la Nación y se traslada a un recinto de la DIAN",
+        "La DIAN dispone de la mercancía"
+      ],
+      "explain": "Permanencia (1 mes), abandono legal, mes para rescatar, propiedad de la Nación y traslado a recintos (art. 732) y, por último, la disposición."
+    },
+    {
+      "id": "ingm-q-004", "type": "pjs", "difficulty": 2, "source": "D. 1165/2019 art. 171 par. 1",
+      "case": "Un importador pregunta si todavía puede recuperar su mercancía. El abandono legal se produjo hace 20 días y aún no ha presentado ninguna declaración.",
+      "prompt": "¿Qué se le debe informar?",
+      "options": [
+        { "id": "a", "text": "Que ya no es posible, porque el abandono legal transfiere la mercancía a la Nación." },
+        { "id": "b", "text": "Que debe pedir la revocatoria del abandono ante el Director Seccional." },
+        { "id": "c", "text": "Que puede rescatarla dentro del mes siguiente a la fecha del abandono." }
+      ],
+      "answer": "c",
+      "explain": "El interesado puede rescatar la mercancía dentro del mes siguiente a la fecha en que se produjo el abandono. Solo después de ese término la mercancía es de la Nación.",
+      "optionWhy": {
+        "a": "La mercancía pasa a la Nación cuando vence el término de rescate, no en el momento del abandono.",
+        "b": "El abandono legal opera por vencimiento de términos; el camino es el rescate."
+      }
+    },
+    {
+      "id": "ingm-q-005", "type": "cloze", "difficulty": 1, "source": "D. 1165/2019 art. 171",
+      "text": "El término de permanencia en depósito puede prorrogarse hasta por {{1}} mes adicional si lo autoriza la autoridad aduanera.",
+      "alternatives": { "1": ["un", "uno"] }
+    },
+    {
+      "id": "ingm-q-006", "type": "mcq", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 652",
+      "prompt": "Ingresa a un recinto de almacenamiento un lote aprehendido. ¿Qué valor se registra como valor de ingreso?",
+      "options": [
+        { "id": "a", "text": "El que declare el propietario del lote" },
+        { "id": "b", "text": "El que fije el operador logístico" },
+        { "id": "c", "text": "El del acto que hizo efectiva la medida" },
+        { "id": "d", "text": "El precio de venta al público vigente" }
+      ],
+      "answer": "c",
+      "explain": "El valor de ingreso es el señalado en el acto administrativo con el que se hizo efectiva la medida, o el del acta de inventario si se trata de mercancía en abandono.",
+      "optionWhy": {
+        "a": "El valor no lo fija el propietario.",
+        "b": "El operador no fija el valor; puede haber ajuste por valuación de la DIAN o del evaluador contratado.",
+        "d": "La norma remite al acto o al acta de inventario, no al precio al público."
+      }
+    },
+    {
+      "id": "ingm-q-007", "type": "truefalse", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 652 par.",
+      "statement": "Cuando se ajusta el valor de una mercancía decomisada por una nueva valuación, el nuevo valor rige para el pago del almacenamiento desde la fecha de la valuación.",
+      "answer": false,
+      "explain": "Falso. El nuevo valor rige para el pago del almacenamiento a partir de la comunicación escrita que la DIAN haga al contratista."
+    },
+    {
+      "id": "ingm-q-008", "type": "pjs", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 653",
+      "case": "El representante de una empresa llega al recinto de almacenamiento y pide retirar unos equipos decomisados. Dice que ya hizo un acuerdo verbal con un funcionario para comprarlos.",
+      "prompt": "¿Qué debe verificar el Gestor III antes de autorizar el egreso?",
+      "options": [
+        { "id": "a", "text": "Que el acuerdo conste en un correo del funcionario que lo hizo." },
+        { "id": "b", "text": "Que exista acto administrativo o contrato que ordene la disposición." },
+        { "id": "c", "text": "Que la empresa deposite el valor estimado en una cuenta de la DIAN." }
+      ],
+      "answer": "b",
+      "explain": "La DIAN autoriza el egreso cuando la disposición se ordenó por acto administrativo o contrato, o hay orden de la autoridad aduanera o judicial. Un acuerdo verbal no es soporte.",
+      "optionWhy": {
+        "a": "Un correo no reemplaza el acto o contrato de disposición.",
+        "c": "Consignar dinero no habilita la salida sin acto o contrato."
+      }
+    },
+    {
+      "id": "ingm-q-009", "type": "mcq", "difficulty": 1, "source": "Res. DIAN 46/2019 art. 626",
+      "prompt": "Notificado el acto que ordena entregar una mercancía no perecedera, ¿en qué plazo debe retirarse del recinto?",
+      "options": [
+        { "id": "a", "text": "Dentro de los 10 días hábiles siguientes" },
+        { "id": "b", "text": "Dentro de los 5 días calendario siguientes" },
+        { "id": "c", "text": "Dentro del mes siguiente a la notificación" },
+        { "id": "d", "text": "En cualquier momento, sin plazo fijo" }
+      ],
+      "answer": "a",
+      "explain": "El retiro físico se hace dentro de los 10 días hábiles siguientes; si la mercancía es perecedera, de inmediato.",
+      "optionWhy": {
+        "b": "La norma no fija 5 días calendario.",
+        "c": "Un mes es el término de rescate en abandono, no el de retiro.",
+        "d": "Hay plazo, y si se incumple, el almacenamiento corre por cuenta del interesado."
+      }
+    },
+    {
+      "id": "ingm-q-010", "type": "order", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 626",
+      "prompt": "Ordena los registros que ordena el acto de entrega de una mercancía.",
+      "items": [
+        "Se notifica el acto que ordena la entrega",
+        "Se cancela la matrícula de depósito a nombre de la DIAN",
+        "Se registra el egreso en el sistema",
+        "Se elabora una nueva matrícula a nombre de quien recibe"
+      ],
+      "explain": "El acto ordena al recinto cancelar la matrícula a nombre de la DIAN, registrar el egreso y elaborar una nueva matrícula a nombre de la entidad o el particular."
+    },
+    {
+      "id": "ingm-q-011", "type": "pjs", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 626",
+      "case": "Un particular a quien se ordenó entregar mercancías no las retira en el plazo. El recinto sigue cobrando el almacenamiento a la DIAN.",
+      "prompt": "¿Cómo debe proceder el Gestor III?",
+      "options": [
+        { "id": "a", "text": "Seguir pagando el almacenamiento, porque la mercancía sigue a nombre de la DIAN." },
+        { "id": "b", "text": "Ordenar la destrucción de la mercancía por no haberse retirado." },
+        { "id": "c", "text": "Indicar que el costo es del particular, con base en la nueva matrícula a su nombre." }
+      ],
+      "answer": "c",
+      "explain": "Si no se retira en el plazo, los gastos de almacenamiento corren por cuenta del interesado. Para eso el acto ordena cancelar la matrícula de la DIAN y expedir una nueva a nombre de quien recibe.",
+      "optionWhy": {
+        "a": "La matrícula a nombre de la DIAN se cancela con el acto de entrega.",
+        "b": "No retirar la mercancía no es causal de destrucción."
+      }
+    },
+    {
+      "id": "ingm-q-012", "type": "mcq", "difficulty": 1, "source": "Res. DIAN 46/2019 art. 654",
+      "prompt": "¿Cuál de estas situaciones NO constituye faltante de mercancía en un recinto?",
+      "options": [
+        { "id": "a", "text": "Botellas vacías o con contenido adulterado" },
+        { "id": "b", "text": "Pérdida de piezas o accesorios" },
+        { "id": "c", "text": "Cantidad física distinta de la registrada" },
+        { "id": "d", "text": "Merma propia de la naturaleza del producto" }
+      ],
+      "answer": "d",
+      "explain": "No hay faltante cuando la diferencia obedece a fenómenos atmosféricos, físicos o químicos justificados, o a mermas propias de la naturaleza de la mercancía (par. 1).",
+      "optionWhy": {
+        "a": "Los envases vacíos o adulterados sí son faltante (num. 2).",
+        "b": "La pérdida de piezas sí es faltante (num. 6).",
+        "c": "La diferencia con lo registrado sí es faltante (num. 4)."
+      }
+    },
+    {
+      "id": "ingm-q-013", "type": "pjs", "difficulty": 3, "source": "Res. DIAN 46/2019 art. 654 par. 2",
+      "case": "El operador logístico informa que anoche hurtaron mercancías de una de las bodegas que administra para la Seccional.",
+      "prompt": "¿Qué corresponde según la resolución?",
+      "options": [
+        { "id": "a", "text": "Que el recinto denuncie; el Director suspende el pago hasta el inventario." },
+        { "id": "b", "text": "Que la DIAN asuma la pérdida, pues el hurto es un hecho de un tercero." },
+        { "id": "c", "text": "Que se levante de inmediato el acta de sobrantes y se informe a Fiscalización." }
+      ],
+      "answer": "a",
+      "explain": "En caso de hurto, el recinto lo denuncia de inmediato y envía copia al Director Seccional, quien ordena suspender el pago del almacenamiento de la mercancía afectada hasta que el recinto haga el inventario físico y determine el faltante real.",
+      "optionWhy": {
+        "b": "La resolución trata el hurto como un faltante a cargo del recinto, no como pérdida de la DIAN.",
+        "c": "El acta de sobrantes es para mercancía de más, no para hurtos."
+      }
+    },
+    {
+      "id": "ingm-q-014", "type": "cloze", "difficulty": 1, "source": "Res. DIAN 46/2019 art. 655",
+      "text": "El recinto tiene un plazo máximo de {{5}} días hábiles, desde la comunicación del faltante, para ubicar la mercancía.",
+      "alternatives": { "5": ["cinco"] }
+    },
+    {
+      "id": "ingm-q-015", "type": "mcq", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 656",
+      "prompt": "El recinto no paga la factura de un faltante en el plazo. ¿Qué puede hacer la DIAN?",
+      "options": [
+        { "id": "a", "text": "Descontarlo de lo que debe pagar al recinto" },
+        { "id": "b", "text": "Terminar el contrato sin más trámite" },
+        { "id": "c", "text": "Cobrar intereses al doble de la tasa legal" },
+        { "id": "d", "text": "Retener otras mercancías del recinto" }
+      ],
+      "answer": "a",
+      "explain": "El plazo es de 30 días calendario desde la presentación de la factura; si no se paga, la DIAN puede descontar el valor del faltante de lo que le adeude al contratista por almacenamiento.",
+      "optionWhy": {
+        "b": "La resolución prevé el descuento, no la terminación automática.",
+        "c": "La norma no prevé intereses al doble.",
+        "d": "La resolución no prevé retener mercancías."
+      }
+    },
+    {
+      "id": "ingm-q-016", "type": "truefalse", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 656",
+      "statement": "Si el recinto encuentra la mercancía después de haber pagado el faltante, la DIAN le devuelve el dinero y la mercancía vuelve al inventario.",
+      "answer": false,
+      "explain": "Falso. Si la mercancía aparece después, se coordina su destrucción con supervisión aduanera, y en ningún caso se devuelve el dinero pagado por el faltante."
+    },
+    {
+      "id": "ingm-q-017", "type": "pjs", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 658",
+      "case": "En un inventario total, el Grupo de Comercialización encuentra 12 cajas más de las registradas al ingreso de un lote aprehendido.",
+      "prompt": "¿Qué debe hacerse?",
+      "options": [
+        { "id": "a", "text": "Incorporarlas sin más al inventario como mercancía de la Nación." },
+        { "id": "b", "text": "Levantar un acta y comunicarla a Fiscalización para formalizar el ingreso." },
+        { "id": "c", "text": "Entregarlas al operador logístico como compensación por faltantes." }
+      ],
+      "answer": "b",
+      "explain": "Ante sobrantes, el Grupo de Comercialización o la División Administrativa y Financiera levanta un acta y la comunica a la División de Fiscalización para formalizar el ingreso.",
+      "optionWhy": {
+        "a": "El ingreso debe formalizarse a través de Fiscalización.",
+        "c": "Los sobrantes no compensan faltantes ni se entregan al operador."
+      }
+    },
+    {
+      "id": "ingm-q-018", "type": "match", "difficulty": 2, "source": "Res. DIAN 46/2019 arts. 654–656 y 658",
+      "prompt": "Relaciona cada situación con su consecuencia.",
+      "pairs": [
+        { "left": "Faltante confirmado", "right": "Acta de faltantes y suspensión del pago" },
+        { "left": "Hurto en el recinto", "right": "Denuncia inmediata y copia al Director Seccional" },
+        { "left": "Factura de faltante", "right": "Pago en 30 días calendario" },
+        { "left": "Sobrante", "right": "Acta comunicada a Fiscalización" }
+      ],
+      "explain": "Arts. 655 (acta de faltantes), 654 par. 2 (hurto), 656 (pago) y 658 (sobrantes)."
+    },
+    {
+      "id": "ingm-q-019", "type": "mcq", "difficulty": 1, "source": "Res. DIAN 46/2019 art. 666",
+      "prompt": "¿Cuál de estas mercancías en abandono legal puede ir a destrucción abreviada?",
+      "options": [
+        { "id": "a", "text": "Una de alto valor y difícil venta" },
+        { "id": "b", "text": "Una con fecha de vencimiento expirada" },
+        { "id": "c", "text": "Una que ocupa mucho espacio en bodega" },
+        { "id": "d", "text": "Una que nadie pidió en donación" }
+      ],
+      "answer": "b",
+      "explain": "Procede para mercancías totalmente dañadas, de riesgo para la seguridad o salubridad, vencidas o calificadas sin valor de comercialización.",
+      "optionWhy": {
+        "a": "Que sea difícil de vender no es causal de destrucción abreviada.",
+        "c": "El espacio que ocupa no es causal.",
+        "d": "La falta de interés en donación lleva a otras modalidades, no a la destrucción abreviada."
+      }
+    },
+    {
+      "id": "ingm-q-020", "type": "truefalse", "difficulty": 2, "source": "D. 1165/2019 art. 171 par. 2",
+      "statement": "Las mercancías en abandono que van a destrucción abreviada se trasladan primero a los recintos de almacenamiento de la DIAN.",
+      "answer": false,
+      "explain": "Falso. En ningún caso se trasladan a los recintos de la DIAN ni generan costos de bodegaje o destrucción para la entidad; los asume el titular del documento de transporte."
+    },
+    {
+      "id": "ingm-q-021", "type": "order", "difficulty": 2, "source": "Res. DIAN 46/2019 arts. 667–671",
+      "prompt": "Ordena las etapas de la destrucción abreviada.",
+      "items": [
+        "El usuario aduanero reporta la mercancía al día hábil siguiente del abandono",
+        "Se ordena la inspección física por auto comisorio",
+        "Se diligencia el Acta de Inventario y Avalúo",
+        "El Director Seccional firma la resolución de destrucción",
+        "El usuario programa y ejecuta la destrucción",
+        "Comercialización supervisa y levanta el acta de destrucción"
+      ],
+      "explain": "Reporte (art. 667), inspección y acta (art. 668), resolución (art. 669), ejecución a cargo del usuario (arts. 669–670) y supervisión (art. 671)."
+    },
+    {
+      "id": "ingm-q-022", "type": "pjs", "difficulty": 2, "source": "Res. DIAN 46/2019 arts. 670 y 671",
+      "case": "Notificada la resolución de destrucción abreviada, el depósito pide a la Seccional que contrate y pague la empresa que hará la destrucción.",
+      "prompt": "¿Qué debe responder el Gestor III?",
+      "options": [
+        { "id": "a", "text": "Que la Seccional contratará la empresa con cargo a su presupuesto." },
+        { "id": "b", "text": "Que la DIAN y el depósito dividirán los costos por partes iguales." },
+        { "id": "c", "text": "Que el usuario contrata la empresa, con licencias ambientales, y paga." }
+      ],
+      "answer": "c",
+      "explain": "Los costos los asume el usuario aduanero o el titular del documento de transporte (art. 670). La ejecución es su responsabilidad exclusiva, y la empresa que contrate debe tener las licencias y permisos ambientales (art. 671).",
+      "optionWhy": {
+        "a": "La DIAN no asume costos de esta destrucción.",
+        "b": "La norma no prevé dividir costos."
+      }
+    },
+    {
+      "id": "ingm-q-023", "type": "mcq", "difficulty": 2, "source": "Res. DIAN 46/2019 art. 669",
+      "prompt": "Notificada la resolución de destrucción abreviada, ¿en qué plazo debe el usuario programar la diligencia?",
+      "options": [
+        { "id": "a", "text": "No mayor a 15 días calendario" },
+        { "id": "b", "text": "No mayor a 3 días hábiles" },
+        { "id": "c", "text": "No mayor a 2 días hábiles" },
+        { "id": "d", "text": "No mayor a 30 días calendario" }
+      ],
+      "answer": "a",
+      "explain": "La resolución se notifica por correo al usuario aduanero para que programe la destrucción en un término no mayor a 15 días calendario.",
+      "optionWhy": {
+        "b": "3 días hábiles es el plazo para expedir la resolución tras la inspección.",
+        "c": "2 días hábiles es el plazo para practicar la inspección física.",
+        "d": "30 días calendario es el plazo para pagar faltantes (art. 656)."
+      }
+    },
+    {
+      "id": "ingm-q-024", "type": "open", "difficulty": 2, "source": "Res. DIAN 46/2019 arts. 654–656",
+      "prompt": "Describe el trámite que sigue la DIAN cuando detecta un faltante en un recinto de almacenamiento contratado.",
+      "modelAnswer": "Se comunica el faltante y el recinto tiene 5 días hábiles para ubicar la mercancía. Si no lo logra, se confirma el faltante con un acta que incluye la liquidación de su valor, se notifica al contratista y se suspende el pago del almacenamiento. El valor se factura y el recinto paga en 30 días calendario; si no paga, la DIAN lo descuenta del valor del contrato.",
+      "keyPoints": ["5 días hábiles para ubicar", "Acta de faltantes", "Suspensión del pago", "Factura con pago en 30 días o descuento"],
+      "keywords": ["5 dias", "acta", "suspension", "factura", "30 dias", "descuent"],
+      "minKeywords": 3
+    }
+  ]
+}
