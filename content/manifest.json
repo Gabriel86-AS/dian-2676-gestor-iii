@@ -1,0 +1,21 @@
+{
+  "units": [
+    { "id": "contratacion", "file": "units/contratacion.json", "title": "Contratación pública", "area": "funcional", "priority": 1, "pending": true },
+    { "id": "custodia-mercancias", "file": "units/custodia-mercancias.json", "title": "Custodia y disposición de mercancías aprehendidas, decomisadas o abandonadas", "area": "funcional", "priority": 1, "pending": true },
+    { "id": "ingreso-mercancias", "file": "units/ingreso-mercancias.json", "title": "Control de ingresos, almacenamiento y registro de mercancías", "area": "funcional", "priority": 1, "pending": true },
+    { "id": "procedimiento-administrativo", "file": "units/procedimiento-administrativo.json", "title": "Procedimiento administrativo (Ley 1437/2011) y recursos", "area": "funcional", "priority": 1, "pending": true },
+    { "id": "servicios-infraestructura", "file": "units/servicios-infraestructura.json", "title": "Administración de servicios, infraestructura, inventarios y parque automotor", "area": "funcional", "priority": 2, "pending": true },
+    { "id": "siif", "file": "units/siif.json", "title": "Operación del SIIF Nación II", "area": "funcional", "priority": 2, "pending": true },
+    { "id": "gestion-documental", "file": "units/gestion-documental.json", "title": "Gestión documental e instrumentos archivísticos", "area": "funcional", "priority": 2 },
+    { "id": "constitucion-funcion-publica", "file": "units/constitucion-funcion-publica.json", "title": "Constitución, principios de la función pública y estructura del Estado", "area": "funcional", "priority": 2, "pending": true },
+    { "id": "servicio-ciudadano", "file": "units/servicio-ciudadano.json", "title": "PQRSF y políticas de servicio al ciudadano", "area": "funcional", "priority": 2, "pending": true },
+    { "id": "transparencia-mipg", "file": "units/transparencia-mipg.json", "title": "Transparencia, buen gobierno y MIPG", "area": "funcional", "priority": 3, "pending": true },
+    { "id": "evasion-contrabando", "file": "units/evasion-contrabando.json", "title": "Evasión, elusión y contrabando", "area": "funcional", "priority": 3, "pending": true },
+    { "id": "estructura", "file": "units/estructura.json", "title": "Estructura organizacional de la DIAN", "area": "funcional", "priority": 3 },
+    { "id": "misionalidad", "file": "units/misionalidad.json", "title": "Misionalidad de la DIAN", "area": "funcional", "priority": 3 },
+    { "id": "razonamiento", "file": "units/razonamiento.json", "title": "Razonamiento analítico", "area": "funcional", "priority": 3 },
+    { "id": "comportamentales", "file": "units/comportamentales.json", "title": "Competencias comportamentales", "area": "comportamental", "priority": 3 },
+    { "id": "integridad", "file": "units/integridad.json", "title": "Integridad", "area": "integridad", "priority": 3 }
+  ],
+  "tests": []
+}
