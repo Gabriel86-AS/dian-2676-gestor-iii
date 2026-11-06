@@ -14,12 +14,31 @@ function load() {
   try {
     const raw = localStorage.getItem(KEY);
     state = migrate(raw ? JSON.parse(raw) : null);
+    importFromGestorI();
     localStorage.setItem(KEY, JSON.stringify(state));
   } catch (err) {
     console.warn('Progreso solo en memoria:', err?.message);
     persistent = false;
     state = state || emptyState();
   }
+}
+
+// Entre el 4 y el 5 de nov. de 2026 el contenido de Gestor III se publicó por error en el sitio de
+// Gestor I (mismo dominio, clave 'dian2676:v1'). Se copia una sola vez ese progreso aquí, sin borrar
+// nada allá. Los ítems y lecciones que no existen en este sitio se ignoran al calcular estadísticas.
+const IMPORT_FROM = 'dian2676:v1';
+const IMPORT_FLAG = 'dian2676g3:importado-gestor-i';
+const IMPORT_SINCE = '2026-11-04';
+
+function importFromGestorI() {
+  if (localStorage.getItem(IMPORT_FLAG)) return;
+  const raw = localStorage.getItem(IMPORT_FROM);
+  if (raw) {
+    const other = migrate(JSON.parse(raw));
+    const studyDays = Object.fromEntries(Object.entries(other.studyDays).filter(([d]) => d >= IMPORT_SINCE));
+    state = mergeState(state, { ...other, tests: [], studyDays });
+  }
+  localStorage.setItem(IMPORT_FLAG, new Date().toISOString());
 }
 
 function save() {
